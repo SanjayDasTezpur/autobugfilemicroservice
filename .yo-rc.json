@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.intel.iind.swce"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "microservice",
+    "baseName": "bugfileservice",
+    "packageName": "com.intel.iind.swce",
+    "packageFolder": "com/intel/iind/swce",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzQzNzI1MDJkODkyNTc0OTNmZDI3NDZhZDdkYTgxM2IyODg5ZDkyZmE3MGNlNGIxYmQ3NmZmODkwMTNkNWUxODBlNmM3M2E4MjFjYmEzNzBhNjUzNDkxZTJmZWQwYmNkZDEwM2QyOTk5YTk3YmMwZDk0ZDRmYTgwNDg4MzRhMGE=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
